@@ -1,0 +1,12 @@
+names:
+- Strip
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: door-qw7jl
+  url: https://universe.roboflow.com/gourav200056-gmail-com/door-qw7jl/dataset/1
+  version: 1
+  workspace: gourav200056-gmail-com
+test: ../test/images
+train: Door-1/train/images
+val: Door-1/valid/images
